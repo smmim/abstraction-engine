@@ -1,0 +1,11 @@
+abstraction or elaboration = transmutation
+
+-able to take info and abstract the info or elaborate on it
+  -take info from one level of abstraction to another
+  -elaboration: [a human] --> [a collection of [organ]s]
+  -abstraction: an [organ] + several other [organ]s --> a human
+  
+essentially a framework for a series of scripts to do the actual abstraction
+  -someone creates a script to transmute data of abs. level 1 to level 2
+    -e.g. a civ5 savegame --> parse out a city --> use attributes from city to guess at more data
+      -e.g. guess at crime rate, income, etc. from happiness level
